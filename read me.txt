@@ -1,0 +1,11 @@
+Hi! Thanks for downloading my game. I made it in 48 hours, working alone, for the Ludum Dare 48 “compo” challenge. You can rate it and let me know what you think over here:
+
+https://ldjam.com/events/ludum-dare/48/inks
+
+You can find me on Twitter at @mahalis or by email at mahalis@gmail.com.
+
+All the art and sound was made from scratch, using the following:
+
+• Unreal Engine
+• Substance Designer
+• GarageBand
