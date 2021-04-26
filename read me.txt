@@ -9,5 +9,13 @@ All the art and sound was made from scratch, using the following:
 • Unreal Engine
 • Substance Designer
 • GarageBand
+• Audacity
 
 The title is set in Mont by Fontfabric (https://www.fontfabric.com/fonts/mont/) and the menu text is set in Louis George Cafe by Chen Yining (yiningchen23@gmail.com).
+
+
+How to Play
+
+Chase smaller / paler blots of ink and avoid larger / deeper ones. Your prey are green; your predators are purple. Consume everything to win.
+
+To move, use the mouse cursor, WASD, the arrow keys, or either thumbstick on a game controller.
